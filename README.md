@@ -35,6 +35,9 @@ gcloud run deploy mivora --source . --port 8080 --allow-unauthenticated --region
 
 ---
 
+🌐 Live Demo:
+https://mivora-766611966558.us-central1.run.app/
+
 <div align="center">
   <b>Built for the Fans by Utkarsh Dashora 🚀</b><br>
   <i>Elevating the Fan Experience</i><br><br>
