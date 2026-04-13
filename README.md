@@ -12,7 +12,7 @@ A premium, real-time stadium experience dashboard designed for IPL match attende
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/abhishekmsm51w-star/mivora.git
+   git clone https://github.com/UtkarshDashora/Mivora_IPL_Live
    ```
 2. **Navigate into the project directory:**
    ```bash
